@@ -8,4 +8,4 @@ DESAFIO: Encontre o menor valo possível que a função "f(x)" pode assumir send
 
 A quesão exige as condições abaixo: 
 
-->"X" deve ser codificado como um vetor binário ; população Inicial deve ter 4 indivíduos; Taxa de mutação de 1% ; Taxa de Crossover de 60%; use seleção por torneio; aplique o algorítimo por 5 gerações
+->"X" deve ser codificado como um vetor binário || população Inicial deve ter 4 indivíduos ||Taxa de mutação de 1% || Taxa de Crossover de 60% || use seleção por torneio || aplique o algorítimo por 5 gerações
